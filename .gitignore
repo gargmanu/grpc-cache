@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+*/target/
+*/.classpath
+*/.idea
+
 # Log file
 *.log
 
