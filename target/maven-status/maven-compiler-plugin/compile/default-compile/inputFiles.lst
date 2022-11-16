@@ -1,8 +1,0 @@
-/Users/manugarg/Projects/Java/grpc-cache/src/main/java/com/grpccache/cacheapi/CacheServer.java
-/Users/manugarg/Projects/Java/grpc-cache/target/generated-sources/protobuf/java/com/grpccache/cacheapi/ValueReplyOrBuilder.java
-/Users/manugarg/Projects/Java/grpc-cache/src/main/java/com/grpccache/cacheapi/CacheClient.java
-/Users/manugarg/Projects/Java/grpc-cache/target/generated-sources/protobuf/java/com/grpccache/cacheapi/CacheApiHandlerProto.java
-/Users/manugarg/Projects/Java/grpc-cache/target/generated-sources/protobuf/grpc-java/com/grpccache/cacheapi/CacheApiHandlerGrpc.java
-/Users/manugarg/Projects/Java/grpc-cache/target/generated-sources/protobuf/java/com/grpccache/cacheapi/KeyRequest.java
-/Users/manugarg/Projects/Java/grpc-cache/target/generated-sources/protobuf/java/com/grpccache/cacheapi/ValueReply.java
-/Users/manugarg/Projects/Java/grpc-cache/target/generated-sources/protobuf/java/com/grpccache/cacheapi/KeyRequestOrBuilder.java
